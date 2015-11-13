@@ -1,2 +1,3 @@
 # Master-Data-Science
-Hello mi first public commit
+My awsome data science portfolio
+
